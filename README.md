@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Chathumini Welengodage</h1>
+<h3 align="center">Passionate IT Student</h3>
+
+- 🌱 I’m currently learning **OOP with Java**
+
+- 🤝 I’m **an Undergraduate at Sabaragamuwa University Of Sri Lanka**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
