@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **OOP with Java**
 
-- 🤝 I’m **an Undergraduate at Sabaragamuwa University Of Sri Lanka**
+- 🤝 I’m an undergraduate at **Sabaragamuwa University Of Sri Lanka**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
