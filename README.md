@@ -6,6 +6,9 @@
 - 🤝 I’m an undergraduate at **Sabaragamuwa University Of Sri Lanka**
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<a href="http://www.linkedin.com/in/chathumini-welengodage-476485364" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="chathumini-welengodage" height="30" width="30" /></a>
+<a href="https://www.facebook.com/profile.php?id=61550541196921" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="profile.php?id=61550541196921" height="30" width="30" /></a>
+<a href="https://www.instagram.com/____.chathu._____?igsh=Z2lsMTZlNWI3OGtl" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="____.chathu._____" height="30" width="30" /></a>
 <p align="left">
 </p>
 <br>
